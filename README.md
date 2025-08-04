@@ -55,3 +55,6 @@ You may also install any other packages you would like to test it
 ## Examples
 ![Light Theme Dependency Tree](https://github.com/ethanposey/Dependency-Graph-Viewer/blob/main/light_dep_tree.png)
 ![Dark Theme Dependency Tree](https://github.com/ethanposey/Dependency-Graph-Viewer/blob/main/dark_dep_tree.png)
+
+## Notes
+This is a **very** early version of this and is still very buggy. I'm still exploring NetworkX and its capabilities. I just wanted to make something up quick as a proof of concept for a dependency graph visualizer.
