@@ -53,3 +53,5 @@ To generate this file, I used ```pipdeptree > dependencies.txt```
 You may also install any other packages you would like to test it
 
 ## Examples
+![Light Theme Dependency Tree](https://github.com/ethanposey/Dependency-Graph-Viewer/blob/main/light_dep_tree.png)
+![Dark Theme Dependency Tree](https://github.com/ethanposey/Dependency-Graph-Viewer/blob/main/dark_dep_tree.png)
